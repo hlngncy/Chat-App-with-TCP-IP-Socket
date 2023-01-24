@@ -1,0 +1,14 @@
+C:\Users\hlngn\source\repos\AsyncServerForm\AsyncServerForm\obj\Debug\AsyncServerForm.csproj.AssemblyReference.cache
+C:\Users\hlngn\source\repos\AsyncServerForm\AsyncServerForm\obj\Debug\AsyncServerForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\hlngn\source\repos\AsyncServerForm\AsyncServerForm\obj\Debug\AsyncServerForm.Form1.resources
+C:\Users\hlngn\source\repos\AsyncServerForm\AsyncServerForm\obj\Debug\AsyncServerForm.Properties.Resources.resources
+C:\Users\hlngn\source\repos\AsyncServerForm\AsyncServerForm\obj\Debug\AsyncServerForm.csproj.GenerateResource.cache
+C:\Users\hlngn\source\repos\AsyncServerForm\AsyncServerForm\obj\Debug\AsyncServerForm.csproj.CoreCompileInputs.cache
+C:\Users\hlngn\source\repos\AsyncServerForm\AsyncServerForm\bin\Debug\AsyncServerForm.exe.config
+C:\Users\hlngn\source\repos\AsyncServerForm\AsyncServerForm\bin\Debug\AsyncServerForm.exe
+C:\Users\hlngn\source\repos\AsyncServerForm\AsyncServerForm\bin\Debug\AsyncServerForm.pdb
+C:\Users\hlngn\source\repos\AsyncServerForm\AsyncServerForm\bin\Debug\AsynchLib.dll
+C:\Users\hlngn\source\repos\AsyncServerForm\AsyncServerForm\bin\Debug\AsynchLib.pdb
+C:\Users\hlngn\source\repos\AsyncServerForm\AsyncServerForm\obj\Debug\AsyncServerForm.csproj.CopyComplete
+C:\Users\hlngn\source\repos\AsyncServerForm\AsyncServerForm\obj\Debug\AsyncServerForm.exe
+C:\Users\hlngn\source\repos\AsyncServerForm\AsyncServerForm\obj\Debug\AsyncServerForm.pdb

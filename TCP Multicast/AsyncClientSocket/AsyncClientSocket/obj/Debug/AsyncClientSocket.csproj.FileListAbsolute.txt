@@ -1,0 +1,11 @@
+C:\Users\hlngn\source\repos\AsyncClientSocket\AsyncClientSocket\bin\Debug\AsyncClientSocket.exe.config
+C:\Users\hlngn\source\repos\AsyncClientSocket\AsyncClientSocket\bin\Debug\AsyncClientSocket.exe
+C:\Users\hlngn\source\repos\AsyncClientSocket\AsyncClientSocket\bin\Debug\AsyncClientSocket.pdb
+C:\Users\hlngn\source\repos\AsyncClientSocket\AsyncClientSocket\bin\Debug\AsynchLib.dll
+C:\Users\hlngn\source\repos\AsyncClientSocket\AsyncClientSocket\bin\Debug\AsynchLib.pdb
+C:\Users\hlngn\source\repos\AsyncClientSocket\AsyncClientSocket\obj\Debug\AsyncClientSocket.csproj.AssemblyReference.cache
+C:\Users\hlngn\source\repos\AsyncClientSocket\AsyncClientSocket\obj\Debug\AsyncClientSocket.csproj.SuggestedBindingRedirects.cache
+C:\Users\hlngn\source\repos\AsyncClientSocket\AsyncClientSocket\obj\Debug\AsyncClientSocket.csproj.CoreCompileInputs.cache
+C:\Users\hlngn\source\repos\AsyncClientSocket\AsyncClientSocket\obj\Debug\AsyncClientSocket.csproj.CopyComplete
+C:\Users\hlngn\source\repos\AsyncClientSocket\AsyncClientSocket\obj\Debug\AsyncClientSocket.exe
+C:\Users\hlngn\source\repos\AsyncClientSocket\AsyncClientSocket\obj\Debug\AsyncClientSocket.pdb

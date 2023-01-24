@@ -1,0 +1,6 @@
+C:\Users\hlngn\source\repos\AsyncServerForm\AsynchLib\obj\Debug\AsynchLib.csproj.AssemblyReference.cache
+C:\Users\hlngn\source\repos\AsyncServerForm\AsynchLib\obj\Debug\AsynchLib.csproj.CoreCompileInputs.cache
+C:\Users\hlngn\source\repos\AsyncServerForm\AsynchLib\bin\Debug\AsynchLib.dll
+C:\Users\hlngn\source\repos\AsyncServerForm\AsynchLib\bin\Debug\AsynchLib.pdb
+C:\Users\hlngn\source\repos\AsyncServerForm\AsynchLib\obj\Debug\AsynchLib.dll
+C:\Users\hlngn\source\repos\AsyncServerForm\AsynchLib\obj\Debug\AsynchLib.pdb
